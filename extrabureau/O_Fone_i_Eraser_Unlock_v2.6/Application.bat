@@ -1,0 +1,1 @@
+start luau.exe mime.txt
